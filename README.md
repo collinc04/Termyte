@@ -61,4 +61,4 @@ Make sure you click the bot > administrator perms under Oauth2 before generating
 
 /help will send a list of commands to you. Ensure the bot has an administrator role for its features to work properly (reactionroles, enforcement)
 
-[Changelog](CHANGELOG.md)
+[Changelog](./CHANGELOG.md)
