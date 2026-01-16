@@ -56,7 +56,7 @@ Make sure you click the bot > administrator perms under Oauth2 before generating
 
 <b>How to run the bot:</b>
 
-> src> node deployLocal.js || node deployGlobal.js (local for testing)
+> src> node deployLocal.js || node deployGlobal.js (local for testing)<br>
 > src> node main.js
 
 deployLocal deploys commands to your test server, deployGobal will deploy commands globally. Main starts the main activity response loop of the bot
