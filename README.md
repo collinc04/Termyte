@@ -54,6 +54,7 @@ cloud console.
 
 Make sure you click the bot > administrator perms under Oauth2 before generating the invite link!
 
+deployLocal deploys commands to your test server, deployGobal will deploy commands globally. Main starts the main activity response loop of the bot
 
 <b>Invite link: https://discord.com/oauth2/authorize?client_id=1454353025626935317&permissions=8&integration_type=0&scope=bot</b>
 
