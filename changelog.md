@@ -1,1 +1,2 @@
-1.0.0: Added all basic commands as well as automod functionality.
+# Release 1.0.0:
+Termyte was released with all initial features
